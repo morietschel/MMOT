@@ -34,6 +34,7 @@ Architects adopt visual scripting and parametric design tools to explore more ex
 ### Result 1: Truss
 
 ![Truss Script](image2.png)
+
 **Query: a truss**
 
 <details>
