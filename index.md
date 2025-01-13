@@ -26,7 +26,7 @@ Architects adopt visual scripting and parametric design tools to explore more ex
 
 ## Published Paper at ACADIA 2024
 
-[Link](#) to paper will be added here once available.
+[Link](https://arxiv.org/abs/2411.14485) to the arXiv preprint.
 
 
 ## Full Results from the System for a truss and an umbrella
